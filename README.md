@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lican416&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+
 - 🔭 I’m currently working on combination of AI and automobile
 - 🌱 I’m currently learning contact area perception algorithm
 - 👯 I’m looking to collaborate on intelligence automobile
@@ -8,8 +10,6 @@
 - 📫 How to reach me: lican416@gmail.com
 - 😄 Pronouns: My British shorthair, Pidan
 - ⚡ Fun fact: Japanese animation and drama
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lican416&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
 # Can Li
 
