@@ -21,8 +21,8 @@ Shenzhen, China, 518000
 
 ## Education
 
-- 2014.09-2019.06 University of Chinese Academy of Sciences Ph.D.
-- 2016.09-2018.12 University of Tokyo & University of Yamanashi Ph.D.
+- 2014.09-2019.06, University of Chinese Academy of Sciences, PhD
+- 2016.09-2018.12, University of Tokyo & University of Yamanashi, PhD
 
 ## Research Intersets
 
